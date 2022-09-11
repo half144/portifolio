@@ -1,5 +1,5 @@
 const URL = "https://api.staticforms.xyz/submit";
-const accessKey = "7b88d25b-fdcf-4da0-a637-f3e9ca6b5f3a";
+const accessKey = process.env.API_KEY;
 
 export const useFormSubmit = async (data) => {
   const config = {
