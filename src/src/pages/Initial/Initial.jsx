@@ -12,7 +12,7 @@ const Initial = () => {
     }, [])
 
     return (
-        <div className="home" data-aos="fade-right">
+        <div className="home" data-aos="fade-down">
             <div className="whoiam" data-aos="fade-up">
                 <p>oi, sou o</p>
                 <h1>Rafael</h1>
