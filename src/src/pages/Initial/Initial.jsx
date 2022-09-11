@@ -18,7 +18,7 @@ const Initial = () => {
                 <h1>Rafael</h1>
                 <h3>web dev</h3>
                 <h3>ui designer</h3>
-                <button className="btn" data-aos="fade-up" id="contactbutton" onClick={() => navigate("/contact")}>contact</button>
+                <button className="btn" data-aos="fade-left" id="contactbutton" onClick={() => navigate("/contact")}>contact</button>
             </div>
             <div data-aos="zoom-out" className="img">
                 <img id="astro" src={astronaut} alt="" />
