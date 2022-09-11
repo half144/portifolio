@@ -4,7 +4,7 @@ export const db = [
   {
     nameProject: "Netflix Clone",
     id: 1,
-    image: "netflix.jpg",
+    image: "https://i.imgur.com/jZRVx7W.jpeg",
     languages: ["React.js", "HTML", "CSS", "Fetch API"],
     details:
       "Projeto feito em React, conectado com a API pública do TMDB (The Movie Data Base), meu primeiro contato com a biblioteca.",
@@ -12,7 +12,7 @@ export const db = [
   {
     nameProject: "Weather App",
     id: 2,
-    image: "weather.jpg",
+    image: "https://i.imgur.com/l67tDat.jpeg",
     languages: ["JavaScript", "HTML", "CSS", "Fetch API"],
     url: "https://half144.github.io/appweather/",
     details:
@@ -21,7 +21,7 @@ export const db = [
   {
     nameProject: "McDonald's Totem",
     id: 3,
-    image: "mcdonalds.jpg",
+    image: "https://imgur.com/GgPDyZO",
     languages: ["JavaScript", "HTML", "CSS", "Fetch API"],
     url: "https://half144.github.io/mcdonaldstotem/",
     details:
@@ -30,7 +30,7 @@ export const db = [
   {
     nameProject: "Instagram Clone",
     id: 4,
-    image: "instagram.jpg",
+    image: "https://i.imgur.com/gHUnbWP.jpeg",
     languages: [
       "React.js",
       "Redux",
@@ -48,7 +48,7 @@ export const db = [
   {
     nameProject: "Flappy Bird",
     id: 5,
-    image: "flappybird.jpg",
+    image: "https://i.imgur.com/8Guot9K.jpeg",
     languages: ["JavaScript", "HTML", "CSS"],
     url: "https://half144.github.io/flappybird/",
     details:
@@ -57,7 +57,7 @@ export const db = [
   {
     nameProject: "iFood UI Redesign",
     id: 6,
-    image: "ifood.jpg",
+    image: "https://i.imgur.com/I7b74LL.jpeg",
     languages: ["Figma"],
     url: "https://www.figma.com/file/WLSSixxVDmRQbUXjjax0k6/ifood-redesign",
     details:
@@ -77,7 +77,7 @@ export const stacks = [
     id: "figma",
     resume:
       "O Figma é uma ferramenta de design para interfaces, que oferece a possibilidade de trabalho colaborativo, ou seja, diversos membros de uma equipe podem explorar e atuar em um mesmo projeto.",
-    image: "Figma.png",
+    image: "https://i.imgur.com/BuzaPC4.png",
   },
   {
     stackName: "Redux",
@@ -91,7 +91,7 @@ export const stacks = [
     id: "javascript",
     resume:
       "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.",
-    image: "JavaScript.png",
+    image: "https://i.imgur.com/o2QHV6b.png",
   },
   {
     stackName: "CSS",
