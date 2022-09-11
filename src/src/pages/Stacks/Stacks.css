@@ -5,6 +5,7 @@
   justify-content: center;
   gap: 30px;
   padding: 0 1em;
+  min-height: 100vh;
   align-items: center;
 }
 .stacksList {
