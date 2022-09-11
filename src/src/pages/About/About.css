@@ -1,0 +1,48 @@
+.about {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  padding: 0em 1em;
+  height: 100vh;
+}
+.aboutText {
+  text-align: center;
+}
+#planet {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+
+#planet img {
+  width: 70%;
+  max-width: 200px;
+}
+
+@media (min-width: 640px) {
+  .about {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    width: 60vw;
+    border-bottom: 1px solid rgb(7, 7, 7);
+  }
+  h1 {
+    margin-bottom: 10px;
+  }
+  #planet img {
+    width: 100%;
+  }
+  #planet {
+    width: auto;
+    max-width: 450px;
+  }
+  .aboutText {
+    text-align: left;
+    width: 70%;
+    max-width: 430px;
+  }
+}

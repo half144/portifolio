@@ -1,0 +1,66 @@
+.project {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 22px;
+  text-align: center;
+  padding: 0em 1em;
+  height: 100vh;
+}
+#languages {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  color: #c8ff00;
+}
+#btnRedirect {
+  width: 100%;
+}
+.projectImg img {
+  transition: 0.4s;
+}
+a {
+  color: #fff;
+  text-decoration: none;
+}
+.projectImg img:hover {
+  transform: scale(1.1);
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.projectInfo {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.projectInfo button {
+  padding-top: 0.4em;
+  padding-bottom: 0.4em;
+  margin-bottom: 1em;
+}
+.links {
+  display: flex;
+  gap: 15px;
+}
+@media (min-width: 640px) {
+  .project {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    width: 60vw;
+    text-align: start;
+  }
+  .projectInfo {
+    display: flex;
+    align-items: flex-start;
+    gap: 5px;
+    width: 70%;
+    max-width: 430px;
+  }
+  #languages {
+    justify-content: flex-start;
+  }
+}

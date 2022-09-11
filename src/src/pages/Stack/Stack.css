@@ -1,0 +1,29 @@
+.stack {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 0 1em;
+}
+.resume {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+@media (min-width: 640px) {
+  .stack {
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0;
+    width: 60vw;
+    text-align: start;
+  }
+  .stackInfo {
+    width: 70%;
+    max-width: 430px;
+  }
+}

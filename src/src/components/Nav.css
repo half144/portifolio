@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  width: 100vw;
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, #15151581, #151515);
+  height: 3em;
+  z-index: 99;
+}
+
+ul {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+li a {
+  transition: 0.3s;
+  color: white;
+  text-decoration: none;
+}
+.active {
+  color: #c8ff00;
+}
