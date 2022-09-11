@@ -61,7 +61,7 @@ export const db = [
     languages: ["Figma"],
     url: "https://www.figma.com/file/WLSSixxVDmRQbUXjjax0k6/ifood-redesign",
     details:
-      "Um projeto de treino de UI Design, nele refiz a tela de login e a pagina principal do site",
+      "Projeto de treino de UI Design, refiz a tela de login e a página principal do site.",
   },
 ];
 export const stacks = [
@@ -69,7 +69,7 @@ export const stacks = [
     stackName: "React",
     id: "react",
     resume:
-      "O React é uma biblioteca de código aberto para interfaces gráficas que tem como foco uma só coisa: tornar a experiência do usuário com a interface mais eficiente.",
+      "O React é uma biblioteca de códigos, aberto para interfaces gráficas que tem como foco tornar a experiência do usuário com a interface mais inteligente.",
     image: "https://i.imgur.com/qRxkumT.png",
   },
   {
