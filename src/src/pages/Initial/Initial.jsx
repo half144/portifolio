@@ -12,15 +12,15 @@ const Initial = () => {
     }, [])
 
     return (
-        <div className="home" data-aos="fade-down">
-            <div className="whoiam" data-aos="fade-right">
+        <div className="home" data-aos="fade-right">
+            <div className="whoiam">
                 <p>oi, sou o</p>
                 <h1>Rafael</h1>
                 <h3>web dev</h3>
                 <h3>ui designer</h3>
                 <button className="btn" id="contactbutton" onClick={() => navigate("/contact")}>contact</button>
             </div>
-            <div className="img" data-aos="zoom-out">
+            <div className="img">
                 <img id="astro" src={astronaut} alt="" />
             </div>
         </div>
