@@ -21,7 +21,7 @@ export const db = [
   {
     nameProject: "McDonald's Totem",
     id: 3,
-    image: "https://imgur.com/GgPDyZO",
+    image: "https://i.imgur.com/GgPDyZO.jpeg",
     languages: ["JavaScript", "HTML", "CSS", "Fetch API"],
     url: "https://half144.github.io/mcdonaldstotem/",
     details:
@@ -70,7 +70,7 @@ export const stacks = [
     id: "react",
     resume:
       "O React é uma biblioteca de código aberto para interfaces gráficas que tem como foco uma só coisa: tornar a experiência do usuário com a interface mais eficiente.",
-    image: "React.svg",
+    image: "https://i.imgur.com/qRxkumT.png",
   },
   {
     stackName: "Figma",
@@ -84,7 +84,7 @@ export const stacks = [
     id: "redux",
     resume:
       "Redux é uma biblioteca para armazenamento de estados de aplicações JavaScript, criado por Dan Abramov. Ele nasceu através de uma implementação do Flux, uma arquitetura criada pelo Facebook para contribuir com as aplicações de User Interface, utilizando o conceito de fluxo de dados unidirecional.",
-    image: "Redux.svg",
+    image: "https://i.imgur.com/f2O87dh.png",
   },
   {
     stackName: "JavaScript",
@@ -98,14 +98,14 @@ export const stacks = [
     id: "css",
     resume:
       "O que e o CSS? Ao falarmos sobre o que é CSS (Cascading Style Sheet, ou Folha de Estilo em Cascatas), é necessário dizer que sua aplicação é utilizada na estilização de componentes escritos em linguagens de marcação.",
-    image: "CSS3.svg",
+    image: "https://i.imgur.com/TXkI9P9.png",
   },
   {
     stackName: "HTML",
     id: "html",
     resume:
       "O HTML é a principal linguagem de programação encontrada na internet. Cada página HTML tem uma série de elementos que cria a estrutura dos conteúdos de uma página ou de um aplicativo",
-    image: "Html 5.svg",
+    image: "https://i.imgur.com/spWuCFS.png",
   },
 ];
 
