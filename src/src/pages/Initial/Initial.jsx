@@ -13,7 +13,7 @@ const Initial = () => {
 
     return (
         <div className="home" data-aos="fade-down">
-            <div className="whoiam" data-aos="fade-left">
+            <div className="whoiam" data-aos="fade-right">
                 <p>oi, sou o</p>
                 <h1>Rafael</h1>
                 <h3>web dev</h3>
