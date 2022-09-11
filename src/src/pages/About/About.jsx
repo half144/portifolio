@@ -10,7 +10,7 @@ const About = () => {
     return (
 
         <div className="about">
-            <div id="planet" data-aos="zoom-in">
+            <div id="planet" data-aos="fade-down">
                 <img src={green} alt="" />
             </div>
             <div className="aboutText" data-aos="fade-up">
