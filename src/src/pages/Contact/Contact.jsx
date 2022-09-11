@@ -11,7 +11,7 @@ const Contact = () => {
     const [status, setStatus] = useState("")
 
     useEffect(() => {
-        useAOS({ duration: 1700 })
+        useAOS({ duration: 2000 })
     }, [])
 
     const handleSubmit = async (e) => {
