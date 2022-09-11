@@ -20,8 +20,8 @@ const Initial = () => {
                 <h3>ui designer</h3>
                 <button className="btn" data-aos="flip-left" data-aos-delay="300" id="contactbutton" onClick={() => navigate("/contact")}>contact</button>
             </div>
-            <div className="img">
-                <img id="astro" data-aos="zoom-in" data-aos-delay="400" src={astronaut} alt="" />
+            <div className="img" data-aos="zoom-in" data-aos-delay="400">
+                <img id="astro" src={astronaut} alt="" />
             </div>
         </div>
     )
