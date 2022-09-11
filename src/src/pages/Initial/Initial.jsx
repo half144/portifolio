@@ -8,7 +8,7 @@ const Initial = () => {
 
     const navigate = useNavigate()
     useEffect(() => {
-        useAOS({ duration: 2200 })
+        useAOS({ duration: 3000 })
     }, [])
 
     return (
