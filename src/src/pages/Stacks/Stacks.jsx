@@ -22,7 +22,7 @@ const Stacks = () => {
                     <li key={stack.id} className="stackItem" data-aos="fade-right" >
                         <h2 data-aos="fade-in">{stack.stackName}</h2>
 
-                        <Link to={`/stack/${stack.id}`} ><img className="stackImg" src={`/src/assets/${stack.image}`} alt={stack.stackName} data-aos="flip-right" /> </Link>
+                        <Link to={`/stack/${stack.id}`} ><img className="stackImg" src={stack.image} alt={stack.stackName} data-aos="flip-right" /> </Link>
                     </li>
                 ))}
             </ul>
