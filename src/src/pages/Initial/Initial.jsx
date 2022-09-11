@@ -18,7 +18,7 @@ const Initial = () => {
                 <h1>Rafael</h1>
                 <h3>web dev</h3>
                 <h3>ui designer</h3>
-               /* <button className="btn" id="contactbutton" onClick={() => navigate("/contact")}>contact</button> */
+               
             </div>
             <div className="img" data-aos="zoom-in" data-aos-delay="400" data-aos-duration="1500">
                 <img id="astro" src={astronaut} alt="" />
