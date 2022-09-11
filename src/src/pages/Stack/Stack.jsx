@@ -17,7 +17,7 @@ const Stack = () => {
             {stack && (
                 <>
                     <div className="stackImg">
-                        <img src={`/src/assets/${stack.image}`} alt={stack.stackName} data-aos="flip-right" />
+                        <img src={stack.image} alt={stack.stackName} data-aos="flip-right" />
                     </div>
                     <div data-aos="fade-right" className="stackInfo">
                         <h1>{stack.stackName}</h1>
