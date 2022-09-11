@@ -4,7 +4,7 @@ const ProjectItem = ({ project }) => {
         <li data-aos="flip-right" className="projectItem">
             <Link to={`/project/${project.id}`}>
                 <div className="image">
-                    <img src={`/src/assets/${project.image}`} alt="" />
+                    <img src={project.image} alt="" />
                 </div>
             </Link>
 
