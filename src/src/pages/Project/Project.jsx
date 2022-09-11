@@ -17,7 +17,7 @@ const Project = () => {
             {project && (
                 <div className="project">
                     <div className="projectImg" data-aos="zoom-in">
-                        <img src={`/src/assets/${project.image}`} alt="" />
+                        <img src={project.image} alt="" />
                     </div>
                     <div className="projectInfo" data-aos="flip-left">
                         <h1>{project.nameProject}</h1>
