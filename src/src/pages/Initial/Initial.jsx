@@ -12,8 +12,8 @@ const Initial = () => {
     }, [])
 
     return (
-        <div className="home" data-aos="fade-right">
-            <div className="whoiam">
+        <div className="home">
+            <div data-aos="fade-right" className="whoiam">
                 <p>oi, sou o</p>
                 <h1>Rafael</h1>
                 <h3>web dev</h3>
