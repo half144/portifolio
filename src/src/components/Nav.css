@@ -9,13 +9,14 @@ nav {
   z-index: 99;
 }
 
-ul {
+.ulItems {
   display: flex;
   gap: 10px;
 }
-li a {
+.ulItems li a {
   color: white;
   text-decoration: none;
+  text-weight: 200;
 }
 .active {
   color: #c8ff00;
