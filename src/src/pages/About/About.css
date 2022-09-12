@@ -30,7 +30,7 @@
     width: 60vw;
     border-bottom: 1px solid rgb(7, 7, 7);
   }
-  h1 {
+  .aboutText h1 {
     margin-bottom: 10px;
   }
   #planet img {
