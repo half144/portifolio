@@ -7,7 +7,7 @@ import { Link } from "react-router-dom"
 const Stacks = () => {
 
     useEffect(() => {
-        useAOS({ duration: 1900 })
+        useAOS({ duration: 1400 })
     }, [])
 
     return (
