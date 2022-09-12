@@ -9,6 +9,7 @@ const Home = () => {
         <>
             <Initial />
             <About />
+            <Projects />
         </>
     )
 }
