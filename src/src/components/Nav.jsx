@@ -1,9 +1,15 @@
 import "./Nav.css"
+import { useEffect } from 'react'
+import { useAOS } from "../hooks/useAos"
 import { NavLink } from "react-router-dom"
 
 const Nav = () => {
+
+    useEffect(() => {
+        useAOS({ duration: 2000 })
+    }, [])
     return (
-        <nav>
+        <nav data-aos="fade-up">
             <ul>
                 <li>
                     <NavLink to="/">Home</NavLink>
