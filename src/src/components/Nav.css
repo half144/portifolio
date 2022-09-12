@@ -17,7 +17,6 @@ li {
   font-weight: 200;
 }
 li a {
-  transition: 0.3s;
   color: white;
   text-decoration: none;
 }
