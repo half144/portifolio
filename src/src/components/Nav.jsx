@@ -9,7 +9,7 @@ const Nav = () => {
         useAOS({ duration: 2000 })
     }, [])
     return (
-        <nav data-aos="fade-up">
+        <nav data-aos="zoom-in">
             <ul>
                 <li>
                     <NavLink to="/">Home</NavLink>
