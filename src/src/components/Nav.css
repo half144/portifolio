@@ -13,9 +13,6 @@ ul {
   display: flex;
   gap: 10px;
 }
-li {
-  font-weight: 200;
-}
 li a {
   color: white;
   text-decoration: none;
