@@ -10,6 +10,7 @@ const Home = () => {
             <Initial />
             <About />
             <Projects />
+            <Contact />
         </>
     )
 }
