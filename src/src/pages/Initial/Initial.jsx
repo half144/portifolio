@@ -20,7 +20,7 @@ const Initial = () => {
                 <h3>ui designer</h3>
                 <button className="btn" id="contactbutton" onClick={() => navigate("/contact")}>contact</button>
             </div>
-            <div data-aos="zoom-in" className="img">
+            <div className="img">
                 <img id="astro" src={astronaut} alt="" />
             </div>
         </div>
