@@ -10,7 +10,7 @@ const Nav = () => {
     }, [])
     return (
         <nav>
-            <ul className="ulItems">
+            <ul data-aos="zoom-down" className="ulItems">
                 <li>
                     <NavLink to="/">Home</NavLink>
                 </li>
