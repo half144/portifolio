@@ -9,11 +9,11 @@ nav {
   z-index: 99;
 }
 
-.ulItems {
+ul {
   display: flex;
   gap: 10px;
 }
-.ulItems li a {
+li a {
   color: white;
   text-decoration: none;
   text-weight: 200;
