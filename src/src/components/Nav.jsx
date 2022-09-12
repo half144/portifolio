@@ -10,7 +10,7 @@ const Nav = () => {
     }, [])
     return (
         <nav>
-            <ul>
+            <ul className="ulItems">
                 <li>
                     <NavLink to="/">Home</NavLink>
                 </li>
