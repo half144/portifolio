@@ -25,10 +25,7 @@ h1 {
   align-items: center;
   height: 40%;
   width: 100%;
-  background-image: url("../../../assets/black.png");
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
+
 }
 .img img {
   width: 70%;
