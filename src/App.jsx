@@ -14,7 +14,6 @@ function App() {
         <div className="container">
           <Router />
         </div>
-        <Footer />
       </BrowserRouter>
 
 
