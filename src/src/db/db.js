@@ -76,7 +76,7 @@ export const db = [
   {
     nameProject: "RocketPay UI Design",
     id: 8,
-    image: "https://i.imgur.com/vkWyxpR.jpeg",
+    image: "https://i.imgur.com/HIajCZA.jpeg",
     languages: ["Figma"],
     url: "https://www.figma.com/file/bUaVU7BivENXpBXQatrMp0/teste-mobile-e-desktop?node-id=0%3A1",
     details:
