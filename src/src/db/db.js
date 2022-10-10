@@ -73,6 +73,16 @@ export const db = [
     details:
       "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
   },
+  {
+    nameProject: "RocketPay UI Design",
+    id: 8,
+    image: "https://i.imgur.com/vkWyxpR.jpeg",
+    languages: ["Figma"],
+    url: "https://www.figma.com/file/bUaVU7BivENXpBXQatrMp0/teste-mobile-e-desktop?node-id=0%3A1",
+    details:
+      "Design de um banco ficticio feito por mim, nele consta uma versão mobile e uma versão web das telas.",
+  },
+  
 ];
 export const stacks = [
   {
