@@ -63,6 +63,15 @@ export const db = [
     details:
       "Projeto de treino de UI Design, refiz a tela de login e a página principal do site.",
   },
+  {
+    nameProject: "RastreiaMe",
+    id: 7,
+    image: "https://i.imgur.com/vkWyxpR.jpeg",
+    languages: ["React Native, Expo"],
+    url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
+    details:
+      "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
+  },
 ];
 export const stacks = [
   {
