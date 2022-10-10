@@ -6,6 +6,7 @@ export const db = [
     id: 1,
     image: "https://i.imgur.com/jZRVx7W.jpeg",
     languages: ["React.js", "HTML", "CSS", "Fetch API"],
+    url: "https://netflixclone-half144.vercel.app/",
     details:
       "Projeto feito em React, conectado com a API pública do TMDB (The Movie Data Base), meu primeiro contato com a biblioteca.",
   },
