@@ -27,7 +27,7 @@ const Project = () => {
                                 <li key={language}>{language}</li>
                             ))}
                         </ul>
-                        <a id="btnRedirect" href={project.url}>
+                        <a id="btnRedirect" target="_blank" href={project.url}>
                             <button className="btn">Visualizar</button>
                         </a>
                         <Link to="/contact">Entrar em contato</Link>
