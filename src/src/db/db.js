@@ -68,7 +68,7 @@ export const db = [
     nameProject: "RastreiaMe",
     id: 7,
     image: "https://i.imgur.com/vkWyxpR.jpeg",
-    languages: ["React Native, Expo"],
+    languages: ["React Native, Expo, Material UI, React Navigation"],
     url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
     details:
       "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
@@ -82,6 +82,15 @@ export const db = [
     details:
       "Design de um banco ficticio feito por mim, nele consta uma versão mobile e uma versão web das telas.",
   },
+  {
+    nameProject: "React Chat",
+    id: 9,
+    image: "https://i.imgur.com/102EzyL.jpg",
+    languages: ["React, Context API, Firebase"],
+    url: "https://chatreact-half144.vercel.app",
+    details:
+      "Um chat em tempo real construido com React e Firebase",
+  },
   
 ];
 export const stacks = [
@@ -89,7 +98,14 @@ export const stacks = [
     stackName: "React",
     id: "react",
     resume:
-      "O React é uma biblioteca de códigos, aberto para interfaces gráficas que tem como foco tornar a experiência do usuário com a interface mais inteligente.",
+      "O React é uma biblioteca de código aberto para interfaces gráficas (GUI) que tem como foco uma só coisa: tornar a experiência do usuário com a interface mais eficiente.",
+    image: "https://i.imgur.com/qRxkumT.png",
+  },
+  {
+    stackName: "React Native",
+    id: "reactnative",
+    resume:
+      "React Native é uma biblioteca Javascript criada pelo Facebook. É usada para desenvolver aplicativos para os sistemas Android e iOS de forma nativa.",
     image: "https://i.imgur.com/qRxkumT.png",
   },
   {
