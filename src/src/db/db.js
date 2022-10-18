@@ -80,7 +80,7 @@ export const db = [
     languages: ["Figma"],
     url: "https://www.figma.com/file/bUaVU7BivENXpBXQatrMp0/teste-mobile-e-desktop?node-id=0%3A1",
     details:
-      "Design de um banco ficticio feito por mim, nele consta uma versão mobile e uma versão web das telas.",
+      "Design de um banco ficticio, nele consta uma versão mobile e uma versão web das telas.",
   },
   {
     nameProject: "React Chat",
@@ -90,6 +90,15 @@ export const db = [
     url: "https://chatreact-half144.vercel.app",
     details:
       "Um chat em tempo real construido com React e Firebase",
+  },
+  {
+    nameProject: "iland",
+    id: 11,
+    image: "https://i.imgur.com/cu2wyD1.jpeg",
+    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express"],
+    url: "https://iland-half144.vercel.app",
+    details:
+      "Loja de iphones feita em React, conta com animações, carrinho de compras, responsividade e navegações entre telas. Backend feito em node com express",
   },
   
 ];
