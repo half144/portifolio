@@ -101,7 +101,7 @@ export const db = [
       "Loja de iphones feita em React, conta com animações, carrinho de compras, responsividade e navegações entre telas. Backend feito em node com express",
   },
   {
-    nameProject: "glimp",
+    nameProject: "GLIMP",
     id: 12,
     image: "https://i.imgur.com/aBsWaJa.jpeg",
     languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery"],
