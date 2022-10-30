@@ -100,6 +100,15 @@ export const db = [
     details:
       "Loja de iphones feita em React, conta com animações, carrinho de compras, responsividade e navegações entre telas. Backend feito em node com express",
   },
+  {
+    nameProject: "glimp",
+    id: 12,
+    image: "https://i.imgur.com/aBsWaJa.jpeg",
+    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery"],
+    url: "https://glimp-half144.vercel.app/",
+    details:
+      "Um site de streaming que da pra você assistir os conteudos de verdade! consta com cerca de 1200 filmes e 270 series.",
+  },
   
 ];
 export const stacks = [
