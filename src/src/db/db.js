@@ -109,6 +109,15 @@ export const db = [
     details:
       "Um site de streaming que da pra você assistir os conteudos de verdade! consta com cerca de 1200 filmes e 270 series.",
   },
+  {
+    nameProject: "IDONTKNOW",
+    id: 13,
+    image: "https://i.imgur.com/aBsWaJa.jpeg",
+    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery", "MongoDb"],
+    url: "https://glimp-half144.vercel.app/",
+    details:
+      "Um forum criado em react, nele voce pode criar e responder perguntas, alem de marcar qual resposta te ajudou a resolver seu problema.",
+  },
   
 ];
 export const stacks = [
