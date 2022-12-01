@@ -112,9 +112,9 @@ export const db = [
   {
     nameProject: "IDONTKNOW",
     id: 13,
-    image: "https://i.imgur.com/aBsWaJa.jpeg",
+    image: "https://i.imgur.com/HOvBjbw.jpeg",
     languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery", "MongoDb"],
-    url: "https://glimp-half144.vercel.app/",
+    url: "https://forum-idontknow-front.vercel.app/",
     details:
       "Um forum criado em react, nele voce pode criar e responder perguntas, alem de marcar qual resposta te ajudou a resolver seu problema.",
   },
