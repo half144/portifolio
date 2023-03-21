@@ -117,6 +117,13 @@ export const stacks = [
     image: "https://i.imgur.com/3ACTzA9.png",
   },
   {
+    stackName: "TypeScript",
+    id: "typescript",
+    resume:
+      "TypeScript é uma linguagem de programação de código aberto desenvolvida pela Microsoft. É um superconjunto sintático estrito de JavaScript e adiciona tipagem estática opcional à linguagem.",
+    image: "https://i.imgur.com/P5UPP4N.png",
+  },
+  {
     stackName: "React Native",
     id: "reactnative",
     resume:
