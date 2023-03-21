@@ -110,6 +110,13 @@ export const stacks = [
     image: "https://i.imgur.com/qRxkumT.png",
   },
   {
+    stackName: "Tailwind CSS",
+    id: "tailwind",
+    resume:
+      "Tailwind CSS é uma estrutura CSS de código aberto. A principal característica desta biblioteca é que, ao contrário de outros frameworks CSS como o Bootstrap, ela não fornece uma série de classes predefinidas para elementos como botões ou tabelas.",
+    image: "https://i.imgur.com/3ACTzA9.png",
+  },
+  {
     stackName: "React Native",
     id: "reactnative",
     resume:
