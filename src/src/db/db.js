@@ -124,6 +124,13 @@ export const stacks = [
     image: "https://i.imgur.com/3ACTzA9.png",
   },
   {
+    stackName: "Prisma",
+    id: "prisma",
+    resume:
+      "O Prisma é um ORM (Object-Relational Mapping) que ajuda os desenvolvedores a criar aplicações mais rapidamente e cometer menos erros com um kit de ferramentas de banco de dados opensource, como PostgreSQL e MySQL.",
+    image: "https://i.imgur.com/nyNS85M.png",
+  },
+  {
     stackName: "TypeScript",
     id: "typescript",
     resume:
@@ -143,34 +150,6 @@ export const stacks = [
     resume:
       "O Figma é uma ferramenta de design para interfaces, que oferece a possibilidade de trabalho colaborativo, ou seja, diversos membros de uma equipe podem explorar e atuar em um mesmo projeto.",
     image: "https://i.imgur.com/BuzaPC4.png",
-  },
-  {
-    stackName: "Redux",
-    id: "redux",
-    resume:
-      "Redux é uma biblioteca para armazenamento de estados de aplicações JavaScript, criado por Dan Abramov. Ele nasceu através de uma implementação do Flux, uma arquitetura criada pelo Facebook para contribuir com as aplicações de User Interface, utilizando o conceito de fluxo de dados unidirecional.",
-    image: "https://i.imgur.com/f2O87dh.png",
-  },
-  {
-    stackName: "JavaScript",
-    id: "javascript",
-    resume:
-      "JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três principais tecnologias da World Wide Web.",
-    image: "https://i.imgur.com/o2QHV6b.png",
-  },
-  {
-    stackName: "CSS",
-    id: "css",
-    resume:
-      "O que e o CSS? Ao falarmos sobre o que é CSS (Cascading Style Sheet, ou Folha de Estilo em Cascatas), é necessário dizer que sua aplicação é utilizada na estilização de componentes escritos em linguagens de marcação.",
-    image: "https://i.imgur.com/TXkI9P9.png",
-  },
-  {
-    stackName: "HTML",
-    id: "html",
-    resume:
-      "O HTML é a principal linguagem de programação encontrada na internet. Cada página HTML tem uma série de elementos que cria a estrutura dos conteúdos de uma página ou de um aplicativo",
-    image: "https://i.imgur.com/spWuCFS.png",
   },
 ];
 
