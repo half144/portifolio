@@ -110,6 +110,13 @@ export const stacks = [
     image: "https://i.imgur.com/qRxkumT.png",
   },
   {
+    stackName: "Zustand",
+    id: "zustand",
+    resume:
+      "Uma solução de gerenciamento de estado de bearbones pequena, rápida e escalável usando princípios de fluxo simplificados. Tem uma API confortável baseada em ganchos, não é clichê ou opinativo.",
+    image: "https://i.imgur.com/4GTsKQd.png",
+  },
+  {
     stackName: "Tailwind CSS",
     id: "tailwind",
     resume:
