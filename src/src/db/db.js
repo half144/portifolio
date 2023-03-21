@@ -2,6 +2,15 @@ import { useEffect, useState } from "react";
 
 export const db = [
   {
+    nameProject: "Lotto Crypto",
+    id: 23,
+    image: "https://i.imgur.com/oa83FhV.jpeg",
+    languages: ["NextJS", "React.js", "Ethers", "Zustand", "Styled-Components"],
+    url: "https://lotto-crypto.vercel.app/",
+    details:
+      "Projeto feito em NextJS, uma loteria escrita em solidity. Nela os usuarios podem comprar tickets e tentarem a sorte para ganhar a bolada de todos os outros",
+  },
+  {
     nameProject: "Netflix Clone",
     id: 1,
     image: "https://i.imgur.com/jZRVx7W.jpeg",
