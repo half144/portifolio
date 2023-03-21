@@ -1,6 +1,15 @@
 import { useEffect, useState } from "react";
 
 export const db = [
+   {
+    nameProject: "RastreiaMe",
+    id: 7,
+    image: "https://i.imgur.com/vkWyxpR.jpeg",
+    languages: ["React Native, Expo, Material UI, React Navigation"],
+    url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
+    details:
+      "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
+  },
   {
     nameProject: "Lotto Crypto",
     id: 23,
@@ -63,15 +72,6 @@ export const db = [
     url: "https://www.figma.com/file/WLSSixxVDmRQbUXjjax0k6/ifood-redesign",
     details:
       "Projeto de treino de UI Design, refiz a tela de login e a página principal do site.",
-  },
-  {
-    nameProject: "RastreiaMe",
-    id: 7,
-    image: "https://i.imgur.com/vkWyxpR.jpeg",
-    languages: ["React Native, Expo, Material UI, React Navigation"],
-    url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
-    details:
-      "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
   },
   {
     nameProject: "RocketPay UI Design",
