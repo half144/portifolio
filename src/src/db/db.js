@@ -10,6 +10,15 @@ export const db = [
     details:
       "Projeto feito em NextJS, uma loteria escrita em solidity. Nela os usuarios podem comprar tickets e tentarem a sorte para ganhar a bolada de todos os outros",
   },
+   {
+    nameProject: "GLIMP",
+    id: 12,
+    image: "https://i.imgur.com/aBsWaJa.jpeg",
+    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery"],
+    url: "https://glimp-half144.vercel.app/",
+    details:
+      "Um site de streaming que da pra você assistir os conteudos de verdade! consta com cerca de 1200 filmes e 270 series.",
+  },
   {
     nameProject: "Netflix Clone",
     id: 1,
@@ -36,24 +45,6 @@ export const db = [
     url: "https://half144.github.io/mcdonaldstotem/",
     details:
       "Projeto feito em JavaScript Puro - Baseado em totens de autoatendimento. O usuário tem toda a experiência de montar seu pedido, sem a necessidade de ir em caixas (O projeto não foi trabalhado a responsividade para dispositivos móveis)",
-  },
-  {
-    nameProject: "Instagram Clone",
-    id: 4,
-    image: "https://i.imgur.com/gHUnbWP.jpeg",
-    languages: [
-      "React.js",
-      "Redux",
-      "Node.js",
-      "Express",
-      "Mongoose",
-      "MongoDB",
-      "HTML",
-      "CSS",
-      "Fetch API",
-    ],
-    details:
-      "Projeto feito em React, no curso React do Zero a Maestria. conta com: autenticação, sistema de likes e comentarios e upload de imagens.",
   },
   {
     nameProject: "Flappy Bird",
@@ -101,24 +92,6 @@ export const db = [
       "Um chat em tempo real construido com React e Firebase",
   },
   {
-    nameProject: "iland",
-    id: 11,
-    image: "https://i.imgur.com/cu2wyD1.jpeg",
-    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express"],
-    url: "https://iland-half144.vercel.app",
-    details:
-      "Loja de iphones feita em React, conta com animações, carrinho de compras, responsividade e navegações entre telas. Backend feito em node com express",
-  },
-  {
-    nameProject: "GLIMP",
-    id: 12,
-    image: "https://i.imgur.com/aBsWaJa.jpeg",
-    languages: ["React.js", "HTML", "CSS", "Fetch API", "NodeJS", "Express", "ReactQuery"],
-    url: "https://glimp-half144.vercel.app/",
-    details:
-      "Um site de streaming que da pra você assistir os conteudos de verdade! consta com cerca de 1200 filmes e 270 series.",
-  },
-  {
     nameProject: "IDONTKNOW",
     id: 13,
     image: "https://i.imgur.com/HOvBjbw.jpeg",
@@ -127,7 +100,6 @@ export const db = [
     details:
       "Um forum criado em react, nele voce pode criar e responder perguntas, alem de marcar qual resposta te ajudou a resolver seu problema.",
   },
-  
 ];
 export const stacks = [
   {
