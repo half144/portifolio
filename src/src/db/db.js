@@ -2,13 +2,13 @@ import { useEffect, useState } from "react";
 
 export const db = [
    {
-    nameProject: "RastreiaMe",
-    id: 7,
-    image: "https://i.imgur.com/vkWyxpR.jpeg",
-    languages: ["React Native, Expo, Material UI, React Navigation"],
-    url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
+    nameProject: "Jobclim",
+    id: 54,
+    image: "https://i.imgur.com/3GcuGlN.png",
+    languages: ["React, Styled-Components"],
+    url: "https://jobclimtest.vercel.app/",
     details:
-      "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
+      "Um teste que eu tinha feito para o desenvolvimento do front de uma clinica, (apenas a parte 'atendimento' tem conteudo).",
   },
   {
     nameProject: "Lotto Crypto",
@@ -36,6 +36,15 @@ export const db = [
     url: "https://netflixclone-half144.vercel.app/",
     details:
       "Projeto feito em React, conectado com a API pública do TMDB (The Movie Data Base), meu primeiro contato com a biblioteca.",
+  },
+  {
+    nameProject: "RastreiaMe",
+    id: 7,
+    image: "https://i.imgur.com/vkWyxpR.jpeg",
+    languages: ["React Native, Expo, Material UI, React Navigation"],
+    url: "https://www.mediafire.com/file/ao7pkh9nqwzmgty/rastreiame.apk/file",
+    details:
+      "Aplicativo mobile criado em React Native, um rastreiador de encomendas dos correios.",
   },
   {
     nameProject: "Weather App",
