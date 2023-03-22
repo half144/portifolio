@@ -13,6 +13,10 @@
   gap: 1em;
 }
 
+.stackImg {
+  width: 150px;
+}
+
 @media (min-width: 640px) {
   .stack {
     flex-direction: row;
