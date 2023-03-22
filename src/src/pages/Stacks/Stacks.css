@@ -23,6 +23,11 @@ h2 {
   text-align: center;
   width: 150px;
 }
+
+.stackItem img {
+  width: 100%;
+}
+
 .stackItem img:hover {
   cursor: pointer;
   transform: scale(1.1);
