@@ -124,6 +124,13 @@ export const stacks = [
     image: "https://i.imgur.com/3ACTzA9.png",
   },
   {
+    stackName: "React Query",
+    id: "reactquery",
+    resume:
+      "React Query é uma das ferramentas de gerenciamento de estado que tem uma abordagem diferente do Flux, Redux e Mobx. Ele apresenta os principais conceitos de Estado-do-Cliente e Estado-do-Servidor. Isso torna o React Query uma das melhores bibliotecas para gerenciar estado, já que todos os outros padrões de gerenciamento de estado tratam apenas do estado do cliente e acham difícil lidar com o estado do servidor que precisa ser buscado, ouvido ou inscrito.",
+    image: "https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png",
+  },
+  {
     stackName: "Prisma",
     id: "prisma",
     resume:
