@@ -1,15 +1,15 @@
 import { useEffect, useState } from "react";
 
 export const db = [
-   {
-    nameProject: "Jobclim",
-    id: 54,
-    image: "https://i.imgur.com/3GcuGlN.png",
-    languages: ["React, Styled-Components"],
-    url: "https://jobclimtest.vercel.app/",
-    details:
-      "Um teste que eu tinha feito para o desenvolvimento do front de uma clinica, (apenas a parte 'atendimento' tem conteudo).",
-  },
+//    {
+//     nameProject: "Jobclim",
+//     id: 54,
+//     image: "https://i.imgur.com/3GcuGlN.png",
+//     languages: ["React, Styled-Components"],
+//     url: "https://jobclimtest.vercel.app/",
+//     details:
+//       "Um teste que eu tinha feito para o desenvolvimento do front de uma clinica, (apenas a parte 'atendimento' tem conteudo).",
+//   },
   {
     nameProject: "Lotto Crypto",
     id: 23,
